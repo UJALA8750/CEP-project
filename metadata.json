@@ -1,0 +1,6 @@
+{
+  "name": "Digital Lost & Found for Public Spaces",
+  "description": "A centralized digital lost-and-found platform for colleges, transit hubs, and public spaces to report, search, and safely reunite lost belongings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
